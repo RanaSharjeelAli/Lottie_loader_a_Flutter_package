@@ -1,6 +1,6 @@
 name: lottie_loader
 description: "pre load your Lottie animations"
-version: 0.0.2
+version: 0.0.4
 homepage: https://github.com/RanaSharjeelAli/Lottie_loader_a_Flutter_package
 
 environment:
